@@ -15,7 +15,7 @@
 	<description>bookstoremanager</description>
 
 	<properties>
-		<java.version>14</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
@@ -152,7 +152,7 @@
 								</goals>
 							</execution>
 							<execution>
-								<id>jacoco-check</id>
+								<id>default-jacoco-check</id>
 								<goals>
 									<goal>check</goal>
 								</goals>
