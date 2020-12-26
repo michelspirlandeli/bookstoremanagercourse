@@ -1,5 +1,6 @@
 package com.michelspirlandeli.bookstoremanager.exception;
 
+import com.michelspirlandeli.bookstoremanager.exception.dto.ApiError;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
